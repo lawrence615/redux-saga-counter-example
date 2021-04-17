@@ -1,6 +1,7 @@
 # redux-saga-counter-example
 A simple React Native app to demonstrate use of Redux Saga for running asynchronous scenarios in background mode and return result to the Component View.
 
+<img src="demo.gif" alt="demo" width="60%"/>
 
 ## Install and run on android
 ```
