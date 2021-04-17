@@ -18,3 +18,6 @@ $ cd redux-saga-counter-example
 $ npm install
 $ npx react-native run-ios
 ```
+
+## reference 
+[React Native + Redux: Implementing Redux Saga For An Asynchronous Flow](https://levelup.gitconnected.com/react-native-redux-implementing-redux-saga-for-an-asynchronous-flow-90a0e9d7d8e8)
